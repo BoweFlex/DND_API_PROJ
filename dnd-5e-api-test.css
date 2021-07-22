@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+}
+
+#exchangeForm {
+	background-color: #eeeeee;
+	border: solid thin black;
+	border-radius: 0.5em;
+	display: inline-block;
+	margin: 0em 0.5em 0.5em 0.5em;
+	padding: 0.5em;
+}
+
+#output {
+	background-color: white;
+}
+
+span {
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	height: 24px;
+}
